@@ -42,7 +42,7 @@ const NavBar = () => {
         </Link>
         <div className="flex items-center space-x-8">
         <a
-  href="https://greenquery.onrender.com/"
+  href="https://greenquery-ywgc.onrender.com/"
   target="_blank"
   rel="noopener noreferrer"
 >
